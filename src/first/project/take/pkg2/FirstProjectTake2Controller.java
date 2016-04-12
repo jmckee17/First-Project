@@ -24,7 +24,7 @@ public class FirstProjectTake2Controller implements Initializable {
     @FXML
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
-        label.setText("Hello World!");
+        label.setText("Drop it down low, then u know we get that bass poppin");
     }
     
     @Override
